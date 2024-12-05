@@ -1,5 +1,5 @@
 # Canva App
-![image](https://github.com/user-attachments/assets/4b6cbbb4-92cb-4bd4-9334-80b34b52a154)
+![image](https://github.com/user-attachments/assets/29f525fe-4f9d-4989-90d0-4d03d202ccca)
 
 
 
