@@ -1,4 +1,16 @@
 # Canva App
+![image](https://github.com/user-attachments/assets/4b6cbbb4-92cb-4bd4-9334-80b34b52a154)
+
+
+
+App Design 
+![image](https://github.com/user-attachments/assets/4e33496c-b9b4-400d-8a83-9f6a3191661f)
+
+
+
+
+
+
 
 Welcome to your Canva App! 🎉
 
